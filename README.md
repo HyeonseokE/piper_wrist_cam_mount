@@ -20,5 +20,5 @@ modified version of kai0's "end-effector-camera-mount-d435i-centered.STEP" work
 - M3x6mm screws x2
 - M3x11mm bolts x2
 - M3 nuts x2
-- M5 nut x1
 - M5x40mm bolt x1
+- M5 nut x1
