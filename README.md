@@ -16,9 +16,9 @@ modified version of kai0's "end-effector-camera-mount-d435i-centered.STEP" work
 
 ## Assembly Guide
 
-### 준비물
-- M3x6mm 피스 2개
-- M3x11mm 볼트 2개
-- M3 너트 2개
-- M5 너트 1개
-- M5x40mm 볼트 1개
+### Required Hardware
+- M3x6mm screws x2
+- M3x11mm bolts x2
+- M3 nuts x2
+- M5 nut x1
+- M5x40mm bolt x1
