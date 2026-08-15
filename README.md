@@ -7,6 +7,7 @@ modified version of kai0's "end-effector-camera-mount-d435i-centered.STEP" work
 | File | Format | Description |
 | --- | --- | --- |
 | `[piper][26.08.15]ee-cam-mount-d435_d405-centered_fianl.step` | STEP | Full assembly drawing (complete model) |
+| `[piper][26.08.15]ee-cam-mount-d435_d405-centered_final.3mf` | 3MF | Print project with the parts pre-arranged; printing in the orientation as set gives the best results |
 | `[piper][26.08.15]ee-cam-mount-d435_d405-centered_part1.stl` | STL | Split part 1, ready for 3D printing |
 | `[piper][26.08.15]ee-cam-mount-d435_d405-centered_part2.stl` | STL | Split part 2, ready for 3D printing |
 
