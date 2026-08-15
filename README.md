@@ -16,31 +16,4 @@ modified version of kai0's "end-effector-camera-mount-d435i-centered.STEP" work
 
 ## Assembly Guide
 
-1. [Required Parts & Hardware](#1-required-parts--hardware)
-2. [Printing the Parts](#2-printing-the-parts)
-3. [Mounting Part 1 to the Piper End-Effector](#3-mounting-part-1-to-the-piper-end-effector)
-4. [Installing the Camera (D435 / D435i / D405)](#4-installing-the-camera-d435--d435i--d405)
-5. [Attaching Part 2 / Closing the Mount](#5-attaching-part-2--closing-the-mount)
-6. [Cable Routing](#6-cable-routing)
-7. [Final Check & Calibration](#7-final-check--calibration)
-
-### 1. Required Parts & Hardware
-TBD
-
-### 2. Printing the Parts
-TBD
-
-### 3. Mounting Part 1 to the Piper End-Effector
-TBD
-
-### 4. Installing the Camera (D435 / D435i / D405)
-TBD
-
-### 5. Attaching Part 2 / Closing the Mount
-TBD
-
-### 6. Cable Routing
-TBD
-
-### 7. Final Check & Calibration
 TBD
