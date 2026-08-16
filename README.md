@@ -1,6 +1,6 @@
 # piper_wrist_cam_mount
-wrist camera mount for piper( intel realsense D435, D435i, D405)
-modified version of kai0's "end-effector-camera-mount-d435i-centered.STEP" work
+
+An AgileX Piper arm camera mount — a Piper arm camera mount / Piper wrist camera mount that takes the Intel RealSense D435, D435i, and D405 interchangeably. It is a modified version of kai0's "end-effector-camera-mount-d435i-centered.STEP" work.
 
 ## Files
 
