@@ -22,3 +22,11 @@ An AgileX Piper arm camera mount / Piper arm camera mount / Piper wrist camera m
 - M3 nuts x2
 - M5x40mm bolt x1
 - M5 nut x1
+
+## License
+
+Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
+
+This work is derived from [OpenDriveLab/kai0](https://github.com/OpenDriveLab/kai0)
+(`setup/FlattenFold/end-effector-camera-mount-d435i-centered.STEP`), which is also
+licensed under Apache-2.0.

@@ -1,0 +1,11 @@
+piper_wrist_cam_mount
+Copyright 2026 HyeonseokE
+
+This product includes work derived from kai0 (https://github.com/OpenDriveLab/kai0),
+Copyright OpenDriveLab, licensed under the Apache License, Version 2.0.
+
+The CAD files in this repository are modified versions of
+"setup/FlattenFold/end-effector-camera-mount-d435i-centered.STEP" from that project.
+Modifications: the mount geometry was reworked for the AgileX Piper arm and to fit the
+Intel RealSense D435 / D435i / D405 interchangeably, and the model was split into
+separate printable parts and exported to STL and 3MF.
